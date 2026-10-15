@@ -1,0 +1,53 @@
+Returns: Stock & Investment — Sample 5-Star User Feedback
+(Illustrative examples written for an assignment. These are NOT actual Google Play Store reviews.)
+
+1. ★★★★★ Clean interface and the daily performance summary is super easy to understand.
+2. ★★★★★ Love how the algos show P&L per lot along with average trade duration. Very transparent.
+3. ★★★★★ Finally an app that explains Nifty futures and options without overwhelming beginners.
+4. ★★★★★ The momentum algos are interesting to follow. Great concept and smooth execution.
+5. ★★★★★ Being SEBI registered gives me confidence. Simple, honest, and well designed.
+6. ★★★★★ Daily performance cards are a nice touch, I check them every evening.
+7. ★★★★★ Onboarding was quick and the dark theme looks premium.
+8. ★★★★★ Gross P&L shown including taxes and brokerage. Appreciate the clarity.
+9. ★★★★★ Research trade ideas section is useful even on days I don't trade.
+10. ★★★★★ App is fast, no lag even during market hours.
+11. ★★★★★ Great for someone like me who wants to understand algo trading step by step.
+12. ★★★★★ The design is minimal and data is presented beautifully.
+13. ★★★★★ Customer support responded quickly and solved my query the same day.
+14. ★★★★★ Love seeing all strategies in one place with clear numbers.
+15. ★★★★★ The short-duration momentum strategies are fascinating to track.
+16. ★★★★★ Very professional app. Feels like a serious investing tool, not a gimmick.
+17. ★★★★★ Disclaimers are clear and the app never makes unrealistic promises. Respect that.
+18. ★★★★★ Setup with my broker was smooth and took only a few minutes.
+19. ★★★★★ Notifications are timely and not spammy. Just what I need.
+20. ★★★★★ The strap/strip strategy explanation helped me learn something new.
+21. ★★★★★ Best app I've used to follow index-based strategies.
+22. ★★★★★ Charts and summaries load instantly. Well optimized.
+23. ★★★★★ I like that risk is clearly communicated before investing.
+24. ★★★★★ Smooth UI, clear stats, and helpful education content. Highly recommended.
+25. ★★★★★ The team keeps improving the app with regular updates.
+26. ★★★★★ Perfect balance between simplicity and detailed information.
+27. ★★★★★ Tracking futures vs options performance side by side is really helpful.
+28. ★★★★★ Easy navigation, even my father could use it without help.
+29. ★★★★★ Very transparent reporting. I always know where I stand.
+30. ★★★★★ The "Today's performance" screen is my favourite feature.
+31. ★★★★★ Great app for learning disciplined, rule-based trading.
+32. ★★★★★ No clutter, no confusing menus. Just clean and functional.
+33. ★★★★★ Love the premium look and feel. Typography and colours are spot on.
+34. ★★★★★ KYC and account linking were hassle-free.
+35. ★★★★★ The app helped me stop emotional trading and follow a system.
+36. ★★★★★ Detailed breakdown of each algo makes decision-making easier.
+37. ★★★★★ Reliable and stable. Haven't faced a single crash so far.
+38. ★★★★★ Educational content inside the app is genuinely useful for beginners.
+39. ★★★★★ Good mix of algo strategies and research-backed trade ideas.
+40. ★★★★★ Average duration info helps me understand how each strategy works.
+41. ★★★★★ Simple, secure, and easy to use. Exactly what an investing app should be.
+42. ★★★★★ Impressed by how clearly they present gross P&L after charges.
+43. ★★★★★ Works great on my budget phone too. Light and fast.
+44. ★★★★★ A well-thought-out app for anyone interested in Nifty trading.
+45. ★★★★★ Love the daily summary sharing feature, easy to keep track.
+46. ★★★★★ Friendly support team and a very polished product overall.
+47. ★★★★★ Makes algo trading accessible to regular retail investors.
+48. ★★★★★ Everything I need is just one or two taps away.
+49. ★★★★★ Trustworthy, transparent, and beautifully designed. Five stars.
+50. ★★★★★ One of the most user-friendly stock and investment apps I've tried.
